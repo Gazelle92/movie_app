@@ -1,4 +1,4 @@
-/*import React, { Component} from 'react';
+import React, { Component} from 'react';
 
 class App extends Component{
   render(){
@@ -11,8 +11,8 @@ class App extends Component{
 }
 
 export default App;
-*/
-import logo from './logo.svg';
+
+/*import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -37,3 +37,4 @@ function App() {
 }
 
 export default App;
+*/
