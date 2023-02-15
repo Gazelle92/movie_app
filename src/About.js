@@ -625,7 +625,7 @@ const About = () => {
                               <div className="text-box">
                                 O<span className="pd-font">FF</span>LINE
                                 <br />
-                                Interaciton
+                                Interaction
                               </div>
                               <div className="text-box">
                                 O<span className="pd-font">N</span>LINE
